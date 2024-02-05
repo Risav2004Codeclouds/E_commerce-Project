@@ -2,7 +2,7 @@
 This Is An E-Commerce Backend Project with Customized Admin Section.
 User Name = admin
 Password = Risav2004
-An Eccomerce Store Made with HTML, CSS, JAVASCRIPT, BOOTSTRAP, PYTHON and DJANGO.
+An E-commerce Store Made with HTML, CSS, JAVASCRIPT, BOOTSTRAP, PYTHON and DJANGO.
 Users can register themselves, login to their accounts, log out, add products to cart, checkout and place order.
 There Is A Separate Product Page For Products.
 Users can Search Products According To Their Needs.
